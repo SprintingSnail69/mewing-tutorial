@@ -32,6 +32,7 @@ html {
 
 .footer {
     text-align: center;
+    position: fixed;
     margin-bottom: 0px;
     font-size: 0.9em;
     font-family: Inter;
