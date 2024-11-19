@@ -45,8 +45,9 @@ html {
     color: black; 
     background-color: white; 
     position: fixed;
-    bottom: 0;
+    margin-bottom: -10px;
     left: 0;
+    bottom: 0;
 }
 
 .footer a {
