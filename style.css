@@ -15,6 +15,12 @@ center {
     color: white;
 }
 
+.tutorialimg {
+    border-radius: 10px;
+    width: 300px;
+    height: 180px;
+}
+
 h1 {
     font-size: 3em;
 }
